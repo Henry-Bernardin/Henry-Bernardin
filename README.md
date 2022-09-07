@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javacript, React, and React Native. 
 - 💬 Ask me about the 80's. 
 - 📫 How to reach me Henry.Bernardin@gmail.com
-- ⚡ Fun fact: Love collecting Funko Pop vinyl figures.
+- ⚡ Fun fact:  I love collecting Funko Pop vinyl figures.
 
 <!--
 **Henry-Bernardin/Henry-Bernardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
