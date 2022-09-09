@@ -2,9 +2,10 @@
 
 
 - 🌱 I’m currently learning JavaScript, React, and React Native. 
-- 💬 Ask me about anything involving psychology. 
+- 💬 Ask me anything involving psychology. 
 - 📫 How to reach me Henry.Bernardin@gmail.com
 - ⚡ Fun facts:  I love collecting Funko Pop vinyl figures, learning about Astronomy, and fascinated with miniature figurines.
+- 
 
 <!--
 **Henry-Bernardin/Henry-Bernardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
