@@ -1,7 +1,7 @@
     Hi there 👋
 
 
-- 🌱 I’m currently learning JavaScript, React, and React Native. 
+- 🌱 I am currently learning JavaScript, React, and React Native. 
 - 💬 Ask me anything involving psychology. 
 - 📫 How to reach me Henry.Bernardin@gmail.com
 - ⚡ Fun facts:  I love collecting Funko Pop vinyl figures, learning about Astronomy, and fascinated with miniature figurines.
