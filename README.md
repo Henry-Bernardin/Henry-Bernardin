@@ -3,7 +3,7 @@
 
 - 🌱 I am currently learning JavaScript, and React. 
 - 💬 Ask me anything involving Psychology. 
-- 📫 How to reach me Henry.Bernardin@gmail.com
+- 📫 How to reach me: Henry.Bernardin@gmail.com
 - ⚡ Fun facts: I love collecting Funko Pops, learning about Astronomy, and fascinated with miniature figurines.
 
 <!--
