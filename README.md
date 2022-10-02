@@ -2,9 +2,9 @@
 
 
 - 🌱 I am currently learning JavaScript, and React. 
-- 💬 Ask me anything about the movie The Last Dragon 🐉. 
+- 💬 Ask me anything about the movie "The Last Dragon" 🐉. 
 - 📫 How to reach me: Henry.Bernardin@gmail.com
-- ⚡ Fun facts: I love collecting Funko Pops, learning about Astronomy, and fascinated with miniature figurines.
+- ⚡ Funfacts: I love collecting Funko Pops, learning about Astronomy, and fascinated with miniature figurines.
 
 <!--
 **Henry-Bernardin/Henry-Bernardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
