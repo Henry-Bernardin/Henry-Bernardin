@@ -1,7 +1,7 @@
     Hello there!!! 👋🏾
 
 
-- 🌱 I am currently learning JavaScript, and React. 
+- 🌱 I am currently learning JavaScript, React, and Git. 
 - 💬 Ask me anything about the movie "The Last Dragon" 🐉. 
 - 📫 How to reach me: Henry.Bernardin@gmail.com
 - ⚡ Funfacts: I love collecting Funko Pops, learning about Astronomy, and fascinated with miniature figurines.
