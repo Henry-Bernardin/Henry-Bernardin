@@ -4,7 +4,7 @@
 - 🌱 I am currently learning JavaScript, React, & Git. 
 - 💬 Ask me anything about the movie "The Last Dragon" 🐉, and the anime "Attack on Titan". 
 - 📫 How to reach me: Henry.Bernardin@gmail.com
-- ⚡ Funfacts: I love 🖤 collecting Funko Pops, learning about Astronomy, and have a female Cavalier King Charles Spaniel 🐕‍🦺
+- ⚡ Funfacts: I love 🖤 collecting Funko Pops, learning about Astronomy, and own a female Cavalier King Charles Spaniel 🐕‍🦺
 
 <!--
 **Henry-Bernardin/Henry-Bernardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
