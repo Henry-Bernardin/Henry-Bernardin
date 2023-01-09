@@ -3,7 +3,7 @@
 
 - 🌱 I am currently learning JavaScript, React, & Git. 
 - 💬 Ask me anything about the movie "The Last Dragon" 🐉, and the anime "Attack on Titan". 
-- 📫 How to reach me: Henry.Bernardin@gmail.com
+- 📫 How to contact me: Henry.Bernardin@gmail.com
 - ⚡ Funfacts: I love 🖤 collecting Funko Pops, learning about Astronomy, and I a dog dad to a female Cavalier King Charles Spaniel 🐕‍🦺 named April. 
 
 <!--
