@@ -1,4 +1,4 @@
-    Hello!! 👋🏾😁👋🏾
+    Hello!! 👋🏾😁
 
 
 - 🌱 I am currently learning JavaScript, React, MongoDB & Git. 
