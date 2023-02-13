@@ -1,7 +1,6 @@
 <h1 align="center">Hello! 👋🏾, I'm Henry Bernardin</h1>
 <h3 align="center">An ‘80s fanatic Front-End Web Developer who has a passion for designing.</h3>
 
-<p align="left"> <a href="https://twitter.com/henrybernardin" target="blank"><img src="https://img.shields.io/twitter/follow/henrybernardin?logo=twitter&style=for-the-badge" alt="henrybernardin" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, React, MongoDB & Git.**
 
