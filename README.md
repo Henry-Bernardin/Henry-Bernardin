@@ -1,4 +1,4 @@
-<h1 align="center">Hello!! 👋🏾, I'm Henry Bernardin</h1>
+<h1 align="center">Hello!! 👋🏾, I'm Henry Bernardin</h1> 
 <h3 align="center">An ‘80s fanatic Front-End Web Developer who has a passion for designing.</h3>
 
 
