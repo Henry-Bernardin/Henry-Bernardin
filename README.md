@@ -2,7 +2,7 @@
 <h3 align="center">An ‘80s fanatic Front-End Web Developer who has a passion for designing.</h3>
 
 
-- 🌱 I’m currently learning **JavaScript, React, MongoDB & Git.**
+- 🌱 I’m currently learning **JavaScript, React, MongoDB, AWS & Git.**
 
 - 💬 Ask me about **the movie "The Last Dragon" 🐉, and the anime "Attack on Titan".**
 
