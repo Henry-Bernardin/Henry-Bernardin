@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, MongoDB, AWS & Git.**
 
-- 💬 Ask me about **the movie "The Last Dragon" 🐉, and the anime "Attack on Titan".**
+- 💬 Ask me about **the movie "The Last Dragon" 🐉, and the videogame "Mortal Kombat" 🐉.**
 
 - 📫 How to reach me **Henry.Bernardin@gmail.com**
 
