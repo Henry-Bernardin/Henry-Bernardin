@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Henry.Bernardin@gmail.com**
 
-- ⚡ Fun facts **I love collecting Funko Pops, learning about Astronomy, and I am a dog dad to a vibrant three year old King Charles Cavalier 🐕‍🦺 named April.**
+- ⚡ Fun facts **I love collecting Funko Pops, and learning about Astronomy. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
