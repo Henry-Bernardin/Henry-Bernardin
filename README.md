@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Henry.Bernardin@gmail.com**
 
-- ⚡ Fun facts **I love collecting Funko Pops, and learning about Astronomy. **
+- ⚡ Fun facts **I love collecting Funko Pops, and learning about Astronomy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
